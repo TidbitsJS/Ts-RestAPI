@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "argon2": "^0.28.5",
     "cors": "^2.8.5",
     "debug": "^4.3.4",
     "express": "^4.17.3",
